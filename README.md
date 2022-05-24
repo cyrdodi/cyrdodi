@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/cyrdodi)
+[![Linkedin Badge]([https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/cyrillus-dodi-tri-yulian-4725ab211/)
 
-- 🌱 I’m currently learning React, React Native, Node JS
+
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: <cdoditri@gmail.com>
 <!--
 **cyrdodi/cyrdodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
